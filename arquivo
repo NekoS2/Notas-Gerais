@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sites de Verificação e Fontes Confiaveis</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+
+<header class="header">
+    <div class="left-option">
+        <a style="color: white;" href="index.html">Secure News</a>
+        <img src="/trabalho-html-2.html/assets/Logo.png" alt="Logo">
+    </div>
+</header>
+
+<body>
+
+    <section class="my-galery">
+        <div class="titulo">
+            <p>Sites Confiaveis e Para Verificação</p>
+        </div>
+        <div class="galeria">
+            <div class="single-galeria">
+                <a href="https://www.e-farsas.com">
+                    <img src="/trabalho-html-2.html/assets/E-Farsas.png" alt="E-Farsas">
+                </a>
+                <div class="info">
+                    <p>E-Farsas: Um dos sites mais antgos do brasil focado em desmentir Fake News</p>
+                </div>
+            </div>
+
+            <div class="single-galeria">
+                <a href="https://www.estadao.com.br/estadao-verifica/">
+                    <img src="/trabalho-html-2.html/assets/Estadão.png" alt="Estadão">
+                </a>
+                <div class="info">
+                    <p>Estadão Verifica: Area do já famoso G1 voltado para desmentir notiias falsas</p>
+                </div>
+            </div>
+
+            <div class="single-galeria">
+                <a href=https://nilc-fakenews.herokuapp.com>
+                    <img src="/trabalho-html-2.html/assets/FaceCheck.png" alt="FakeCheck">
+                </a>
+                <div class="info">
+                    <p>FakeCheck: Famoso site onde se pesquisa Fake News pelo titulo</p>
+                </div>
+            </div>
+
+            <div class="single-galeria">
+                <a href=https://g1.globo.com/fato-ou-fake>
+                    <img src="/trabalho-html-2.html/assets/Fato ou Fake.png" alt="Fato ou Fake">
+                </a>
+                <div class="info">
+                    <p>Fato ou Fake: Area do já famoso G1 voltado para desmentir notiias falsas</p>
+                </div>
+            </div>
+
+            <div class="single-galeria">
+                <a
+                    href=https://lupa.uol.com.br/?utm_source=googleads&utm_medium=searchads&utm_campaign=institucional&gad_source=1&gclid=CjwKCAjw65-zBhBkEiwAjrqRMKLFnBtiUt7S_24WeMwUxE2O_BVPx4uOCI9qb3i3RyUFaFIXxgvG9xoCRqMQAvD_BwE>
+                    <img src="/trabalho-html-2.html/assets/Lupa.png" alt="Lupa">
+                </a>
+                <div class="info">
+                    <p>Lupa: Area do já famoso UOL voltado para desmentir notiias falsas</p>
+                </div>
+            </div>
+            <div class="single-galeria">
+                <a href=https://apublica.org>
+                    <img src="/trabalho-html-2.html/assets/Publica.png" alt="Publica">
+                </a>
+                <div class="info">
+                    <p>Publica: Revista publica, uma otima fonte de noticias</p>
+                </div>
+            </div>
+        </div>
+    </section>
+</body>
+<footer></footer>
